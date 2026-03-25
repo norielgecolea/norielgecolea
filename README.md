@@ -1,12 +1,12 @@
 <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h1 align="center">Hi 👋, I'm Noriel Gecolea</h1>
 <h3 align="center">A passionate Full Stack Developer from the Philippines 🇵🇭</h3>
 
 <!-- ABOUT ME -->
 <h2>🚀 About Me</h2>
 <ul>
   <li>💻 I’m a Full Stack Developer</li>
-  <li>🌱 Currently learning: TypeScript, Next.js, and Cloud Computing</li>
+  <li>🌱 Currently learning: Java, C#, MVC, Angular</li>
   <li>⚡ Fun fact: I love coding late at night with music 🎧</li>
 </ul>
 
