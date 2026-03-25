@@ -20,7 +20,7 @@
 
 <h2>📫 Connect With Me</h2>
 <p>
-  🌐 Portfolio: <a href="https://www.norielgecolea.com">Visit</a><br>
-  💼 links: <a href="https://links.norielgecolea.com">Profile</a><br>
+  🌐  <a href="https://www.norielgecolea.com">Portfolio Page</a><br>
+  💼  <a href="https://links.norielgecolea.com">Links Page</a><br>
   📧 Email: norielgecolea23@email.com
 </p>
