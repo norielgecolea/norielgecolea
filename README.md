@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Noriel Gecolea</h1>
 <h3 align="center">A passionate Full Stack Developer from the Philippines 🇵🇭</h3>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus"/>
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=norielgecolea&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
 
