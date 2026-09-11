@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=norielgecolea&data=followers,repositories,stars,commits&theme=nautilus"/>
 
 # 👋 Hi, I'm Noriel Gecolea
 
