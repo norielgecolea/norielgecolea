@@ -24,3 +24,6 @@
   💼  <a href="https://links.norielgecolea.com">Links Page</a><br>
   📧 Email: norielgecolea23@email.com
 </p>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=norielgecolea&theme=tokyonight" alt="mystreak"/>
