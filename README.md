@@ -1,45 +1,174 @@
-<!-- HEADER -->
-<img src="https://github-widgetbox.vercel.app/api/profile?username=norielgecolea&data=followers,repositories,stars,commits&theme=nautilus"/>
-<h1 align="center">Hi 👋, I'm Noriel Gecolea</h1>
-<h3 align="center">A passionate Full Stack Developer from the Philippines 🇵🇭</h3>
+<div align="center">
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=norielgecolea&repo=madushadhanushka&countColorcountColor&countColor=%237B1E7B"/>
+# 👋 Hi, I'm Noriel Gecolea
 
-<!-- ABOUT ME -->
-<h2>🚀 About Me</h2>
-<ul>
-  <li>💻 I’m a Full Stack Developer</li>
-  <li>🌱 Currently learning: Java, C#, MVC, Angular</li>
-  <li>⚡ Fun fact: I love coding late at night with music 🎧</li>
-</ul>
+### 💻 Software Developer • Full Stack Developer • Computer Engineer
 
-<h2>🛠️ Tech Stack</h2>
+Building practical, scalable, and user-focused applications from **frontend to backend**.
+
+🇵🇭 Philippines
+
+<br>
+
+<a href="https://www.norielgecolea.com">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://links.norielgecolea.com">
+  <img src="https://img.shields.io/badge/Links-Connect-374151?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
+<a href="mailto:norielgecolea23@email.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Computer Engineer and Software Developer** passionate about building reliable applications, solving real-world problems, and continuously learning new technologies.
+
+* 💻 Full Stack & Software Developer
+* 🔧 Experienced in **backend development, web applications, and databases**
+* 🌱 Currently working with **C#, Java, Angular, and Spring Boot**
+* 🗄️ Interested in designing clean APIs and database-driven systems
+* 🧠 Always learning, experimenting, and improving
+* 🎧 I enjoy coding late at night with music
+
+> **"My life is His story."**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
 <p>
-  <b>Languages:</b> JavaScript, Python, C++, HTML, CSS<br>
-  <b>Frameworks:</b> React, Node.js, Express<br>
-  <b>Databases:</b> MongoDB, MySQL<br>
-  <b>Tools:</b> Git, Docker, VS Code, Figma
+  <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,js,ts,html,css" />
 </p>
 
-<h2>📫 Connect With Me</h2>
+### ⚙️ Frameworks & Technologies
+
 <p>
-  🌐  <a href="https://www.norielgecolea.com">Portfolio Page</a><br>
-  💼  <a href="https://links.norielgecolea.com">Links Page</a><br>
-  📧 Email: norielgecolea23@email.com
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nodejs,dotnet,express" />
 </p>
 
-<table>
-<thead>
-<tr>
-<th align="center"><strong>General Stats</strong></th>
-<th align="center"><strong>Most Used Languages</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=norielgecolea&theme=tokyonight" alt="mystreak"/></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3d8cf7c88195cb4be4ab58233c267135e35308320a8119bc972b7d2d472ab403/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d63796666656572266c61796f75743d636f6d70616374267468656d653d6f6e656461726b26686964655f626f726465723d74727565"><img height="170em" src="https://camo.githubusercontent.com/3d8cf7c88195cb4be4ab58233c267135e35308320a8119bc972b7d2d472ab403/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d63796666656572266c61796f75743d636f6d70616374267468656d653d6f6e656461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=norielgecolea&amp;layout=compact&amp;theme=onedark&amp;hide_border=true" style="max-width: 100%;"></a></td>
-</tr>
-</tbody>
-</table>
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+</p>
+
+---
+
+## 💡 What I Build
+
+```text
+🌐 Web Applications
+        ↓
+⚡ REST APIs & Backend Systems
+        ↓
+🗄️ Database-Driven Applications
+        ↓
+🔐 Authentication & User Management
+        ↓
+📊 Management & Business Systems
+        ↓
+🔌 Embedded & Hardware-Integrated Systems
+```
+
+I enjoy working across the entire development process — from designing interfaces and APIs to connecting databases and integrating hardware.
+
+---
+
+## 📌 Featured Projects
+
+### 📦 Inventrack
+
+**Inventory Management & Smart Stock Monitoring System**
+
+An inventory system integrating a web dashboard with hardware-based weight monitoring.
+
+**Tech:** `Angular` `Spring Boot` `PostgreSQL` `ESP32` `HX711`
+
+---
+
+### 🪪 RFID Attendance & Payroll System
+
+An RFID-based attendance system designed to manage employees, attendance records, and payroll information.
+
+**Tech:** `Angular` `Spring Boot` `PostgreSQL` `RFID`
+
+---
+
+### 🎫 Queueing Management System
+
+A browser-based queueing system designed to manage multiple service windows with real-time queue display.
+
+**Tech:** `Angular` `Spring Boot` `PostgreSQL`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=norielgecolea&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norielgecolea&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=norielgecolea&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=norielgecolea&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.norielgecolea.com">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-norielgecolea.com-0f766e?style=for-the-badge" />
+</a>
+
+<a href="https://links.norielgecolea.com">
+  <img src="https://img.shields.io/badge/🔗%20Links-Connect%20With%20Me-374151?style=for-the-badge" />
+</a>
+
+<a href="mailto:norielgecolea23@email.com">
+  <img src="https://img.shields.io/badge/📧%20Email-norielgecolea23@email.com-7c3aed?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💻 Code. Build. Learn. Repeat.
+
+⭐ Thanks for visiting my profile!
+
+</div>
