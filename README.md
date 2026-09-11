@@ -68,99 +68,17 @@ I'm a **Computer Engineer and Software Developer** passionate about building rel
 
 ---
 
-## 💡 What I Build
 
-```text
-🌐 Web Applications
-        ↓
-⚡ REST APIs & Backend Systems
-        ↓
-🗄️ Database-Driven Applications
-        ↓
-🔐 Authentication & User Management
-        ↓
-📊 Management & Business Systems
-        ↓
-🔌 Embedded & Hardware-Integrated Systems
-```
-
-I enjoy working across the entire development process — from designing interfaces and APIs to connecting databases and integrating hardware.
-
----
-
-## 📌 Featured Projects
-
-### 📦 Inventrack
-
-**Inventory Management & Smart Stock Monitoring System**
-
-An inventory system integrating a web dashboard with hardware-based weight monitoring.
-
-**Tech:** `Angular` `Spring Boot` `PostgreSQL` `ESP32` `HX711`
-
----
-
-### 🪪 RFID Attendance & Payroll System
-
-An RFID-based attendance system designed to manage employees, attendance records, and payroll information.
-
-**Tech:** `Angular` `Spring Boot` `PostgreSQL` `RFID`
-
----
-
-### 🎫 Queueing Management System
-
-A browser-based queueing system designed to manage multiple service windows with real-time queue display.
-
-**Tech:** `Angular` `Spring Boot` `PostgreSQL`
-
----
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=norielgecolea&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norielgecolea&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 <br>
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=norielgecolea&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=norielgecolea&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.norielgecolea.com">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-norielgecolea.com-0f766e?style=for-the-badge" />
-</a>
-
-<a href="https://links.norielgecolea.com">
-  <img src="https://img.shields.io/badge/🔗%20Links-Connect%20With%20Me-374151?style=for-the-badge" />
-</a>
-
-<a href="mailto:norielgecolea23@email.com">
-  <img src="https://img.shields.io/badge/📧%20Email-norielgecolea23@email.com-7c3aed?style=for-the-badge" />
-</a>
 
 </div>
 
