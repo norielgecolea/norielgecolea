@@ -27,4 +27,4 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=norielgecolea&theme=tokyonight" alt="mystreak"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=norielgecolea&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img width="60%" src="https://camo.githubusercontent.com/e9e5aff9b113bdb1c33e1677ce6a780710614cdb04af816bbed2619e3db5e817/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d637966666565722673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d64656d6f267468656d653d4f6e656461726b26686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=cyffeer&amp;show_icons=true&amp;locale=en&amp;layout=demo&amp;theme=Onedark&amp;hide_border=true" style="max-width: 100%;">
